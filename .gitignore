@@ -3,3 +3,5 @@
 /__py_cache__
 /file.log
 /.log
+/.json
+/.conf
